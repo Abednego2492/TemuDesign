@@ -1,0 +1,5 @@
+{
+  "name": "TEMUDESIGN",
+  "description": "A professional AI-powered poster generator and design tool using Gemini 2.5 Flash Image. Features text density control, reference-based design, and smart text correction.",
+  "requestFramePermissions": []
+}
